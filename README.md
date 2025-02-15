@@ -11,7 +11,7 @@ Deep Learning is a subset of Machine Learning inspired by the human brain's neur
 ## 🤖 Why Learn Deep Learning?  
 - **High Demand Skill:** Deep Learning expertise is highly sought after in AI-driven industries.  
 - **Versatility:** It can be applied to various domains like computer vision, speech recognition, and healthcare.  
-- **State-of-the-Art Performance:** Deep learning models consistently outperform traditional ML algorithms in complex tasks.  
+- **State-of-the-Art Performance:** Deep learning models consistently outperform traditional ML algorithms in complex tasks. 
 
 ---
 
